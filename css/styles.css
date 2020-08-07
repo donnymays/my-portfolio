@@ -16,6 +16,7 @@ h2 {
   font-family: 'Sacramento', cursive;
   font-weight: 300;
   font-size: 36px;
+  margin-top: 25px;
 }
 
 h3 {
@@ -33,6 +34,10 @@ p {
   padding-bottom: 25px;
 }
 
+.site-link:hover {
+  color: #204051;
+}
+
 ol {
   list-style-position: inside;
   list-style-type: upper-roman;
@@ -41,6 +46,14 @@ ol {
 ul {
   list-style: none;
 }
+
+hr {
+  width: 4%;
+  border: dotted #3b6978 6px;
+  border-bottom: none;
+  margin: 50px auto;
+}
+
 span {
   color: #204051;
 }
