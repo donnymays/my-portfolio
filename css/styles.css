@@ -113,3 +113,21 @@ padding: 3% 2%;
   object-fit: cover;
 }
 
+.background-item {
+width: 50%;
+margin: 100px auto;
+}
+
+.background-imageA {
+  float:left;
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+}
+
+.background-imageB {
+  float:right;
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+}
