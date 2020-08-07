@@ -7,6 +7,7 @@ h1 {
   color: #204051;
   font-family: 'Sacramento', cursive;
   font-weight: 700;
+  padding-top: 50px;
 }
 
 h2 {
@@ -18,6 +19,11 @@ h2 {
 h3 {
   font-family: 'Montserrat', sans-serif;
   color: #e4e3e3;
+}
+
+h4 {
+  font-family: 'Montserrat', sans-serif;
+  color: #84a9ac;
 }
 
 p, ul, a {
@@ -40,6 +46,22 @@ p, ul, a {
 
 .bottom-container {
   background-color: #e4e3e3;
+}
+
+.top-about {
+  padding-bottom: 30px;
+}
+.bottom-about {
+ padding-top: 50px;
+  background-color: #204051;
+}
+
+.bottom-about h1{
+  color: #e4e3e3;
+}
+
+.hobby-coloumn {
+padding: 3% 2%;
 }
 
 .card {
