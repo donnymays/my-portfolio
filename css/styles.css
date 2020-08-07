@@ -15,6 +15,11 @@ h2 {
   font-weight: 300;
 }
 
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #e4e3e3;
+}
+
 p, ul, a {
   color: #84a9ac;
   font-family: 'Montserrat', sans-serif;
@@ -35,4 +40,12 @@ p, ul, a {
 
 .bottom-container {
   background-color: #e4e3e3;
+}
+
+.card {
+  background-color: #84a9ac;
+}
+
+.card-text {
+  color: #e4e3e3;
 }
