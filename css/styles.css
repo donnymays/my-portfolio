@@ -7,6 +7,7 @@ h1 {
   color: #204051;
   font-family: 'Sacramento', cursive;
   font-weight: 700;
+  font-size: 64px;
   padding-top: 50px;
 }
 
@@ -14,6 +15,7 @@ h2 {
   color: #204051;
   font-family: 'Sacramento', cursive;
   font-weight: 300;
+  font-size: 36px;
 }
 
 h3 {
@@ -33,19 +35,27 @@ p, ul, a {
 
 .profile-pic {
   border-radius: 50%;
+  width: 10%;
+  height: auto;
+  padding-bottom: 25px;
 }
 
 .top-container {
   background-color: #e4e3e3;
+  padding-bottom: 25 px;
 }
 
 .middle-container {
   background-color: #3b6978;
   color: #e4e3e3;
+  margin-top: 20px;
+  padding-top: 50px;
+  padding-bottom: 50px;
 }
 
 .bottom-container {
   background-color: #e4e3e3;
+  padding-top: 25px;
 }
 
 .top-about {
