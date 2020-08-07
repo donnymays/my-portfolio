@@ -27,12 +27,17 @@ h4 {
   font-family: 'Montserrat', sans-serif;
   color: #84a9ac;
 }
+
 p {
   padding-top: 25px;
   padding-bottom: 25px;
 }
 
-p, ul, a {
+span {
+  color: #204051;
+}
+
+p, ul, ol, a {
   color: #84a9ac;
   font-family: 'Montserrat', sans-serif;
 }
@@ -51,6 +56,7 @@ p, ul, a {
 .top-container p {
   padding-top: 0;
 }
+
 .middle-container {
   background-color: #3b6978;
   color: #e4e3e3;
@@ -67,6 +73,7 @@ p, ul, a {
 .top-about {
   padding-bottom: 30px;
 }
+
 .bottom-about {
  padding-top: 50px;
   background-color: #204051;
@@ -91,4 +98,13 @@ padding: 3% 2%;
 .card-img {
   width: 100%;
   object-fit: cover;
+}
+
+.list-home, .list-programming {
+   list-style-position: inside;
+}
+
+.list-programming {
+  list-style-type: upper-roman;
+  
 }
