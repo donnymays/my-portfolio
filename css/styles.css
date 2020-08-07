@@ -85,6 +85,7 @@ p, ul, ol, a {
 
 .top-about {
   padding-bottom: 30px;
+  margin: 0 150px 0 150px;
 }
 
 .bottom-about {
@@ -97,11 +98,27 @@ p, ul, ol, a {
   color: #e4e3e3;
 }
 
+.hobby-header{
+  padding-bottom: 50px;
+  color: #204051;
+}
+
 .hobby-coloumn {
 padding: 3% 2%;
 }
 
-.card {
+.hobby-image {
+  border-radius: 50%;
+  height: 200px;
+  width: 300px;
+  margin-bottom: 25px;
+}
+
+.hobby-box h3 {
+  color: #3b6978;
+}
+
+/* .card {
   background-color: #84a9ac;
 }
 
@@ -112,7 +129,7 @@ padding: 3% 2%;
 .card-img {
   width: 100%;
   object-fit: cover;
-}
+} */
 
 .background-item {
 width: 50%;
