@@ -33,6 +33,14 @@ p {
   padding-bottom: 25px;
 }
 
+ol {
+  list-style-position: inside;
+  list-style-type: upper-roman;
+}
+
+ul {
+  list-style: none;
+}
 span {
   color: #204051;
 }
@@ -70,6 +78,11 @@ p, ul, ol, a {
   padding-top: 25px;
 }
 
+.about-photo {
+  border-radius: 50%;
+  width: 5%;
+}
+
 .top-about {
   padding-bottom: 30px;
 }
@@ -100,11 +113,3 @@ padding: 3% 2%;
   object-fit: cover;
 }
 
-.list-home, .list-programming {
-   list-style-position: inside;
-}
-
-.list-programming {
-  list-style-type: upper-roman;
-  
-}
