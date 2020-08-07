@@ -34,11 +34,11 @@ p {
   padding-bottom: 25px;
 }
 
-a {
+a, .bottom-about h1, .background-info {
   color: #ffc93c;
 }
 
-a:hover {
+a:hover, span {
   color: #ff6f3c;
 }
 
@@ -56,10 +56,6 @@ hr {
   border: dotted  #ff6f3c 6px;
   border-bottom: none;
   padding: 50px auto;
-}
-
-span {
-  color: #ff6f3c;
 }
 
 p, ul, ol {
@@ -85,7 +81,6 @@ p, ul, ol {
 .middle-container {
   background-color: #ff9a3c;
   color: #ffc93c;
- 
   padding-top: 50px;
   padding-bottom: 50px;
 }
@@ -114,11 +109,7 @@ p, ul, ol {
   color: #ffc93c;
 }
 
-.bottom-about h1{
-  color: #ffc93c;
-}
-
-.hobby-header{
+.hobby-header {
   padding-bottom: 50px;
   color:  #ff9a3c;
 }
@@ -155,8 +146,4 @@ margin: 100px auto;
   height: 100px;
   width: 100px;
   border-radius: 50%;
-}
-
-.background-info {
-  color: #ffc93c;
 }
