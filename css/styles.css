@@ -49,3 +49,8 @@ p, ul, a {
 .card-text {
   color: #e4e3e3;
 }
+
+.card-img {
+  width: 100%;
+  object-fit: cover;
+}
