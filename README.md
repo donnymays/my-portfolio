@@ -10,11 +10,15 @@ _This is a website for the portfolio of Donny Mays.  It includes About Me, Backg
 
 ## Setup/Installation Requirements
 
+* To view: 
+* Copy this link: donnymays.github.io/my-portfolio
+* Paste in browser URL window
+* To edit:
 * Clone this repository
 * In your terminal run this code:
 * cd desktop/my-portfolio
 * code .
-* 
+
 
 
 ## Known Bugs
